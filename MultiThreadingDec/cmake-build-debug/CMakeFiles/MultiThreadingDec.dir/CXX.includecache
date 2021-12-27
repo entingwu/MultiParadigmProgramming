@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/entingwu/Documents/MultiParadigmProgrammingC++/MultiThreadingDec/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+cmath
+-
+iomanip
+-
+future
+-
+exception
+-
+

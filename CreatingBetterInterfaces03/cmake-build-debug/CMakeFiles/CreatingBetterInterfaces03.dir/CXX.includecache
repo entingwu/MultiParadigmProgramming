@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/entingwu/Documents/MultiParadigmProgrammingC++/CreatingBetterInterfaces03/logger.h
+memory
+-
+sstream
+-
+string
+-
+
+/Users/entingwu/Documents/MultiParadigmProgrammingC++/CreatingBetterInterfaces03/main.cpp
+iostream
+-
+span
+-
+thread
+-
+string_view
+-
+logger.h
+/Users/entingwu/Documents/MultiParadigmProgrammingC++/CreatingBetterInterfaces03/logger.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/entingwu/Documents/MultiParadigmProgrammingC++/ConcurrentDataAccess08/main.cpp
+iostream
+-
+vector
+-
+thread
+-
+
